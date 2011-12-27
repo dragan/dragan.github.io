@@ -1,7 +1,6 @@
 ---
 layout: site
 title: "About Dale Ragan"
-description: "Personal site of Dale Ragan, in which he writes and shares his thoughts."
 ---
 <h1>About Dale Ragan</h1>
 
