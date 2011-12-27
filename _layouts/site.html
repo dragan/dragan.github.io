@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }} : ragan.io</title>
+    <meta charset="UTF-8" />
+    <meta name="author" contents="Dale Ragan" />{% if page.description %}
+    <meta name="description" content="{{ page.description }}" />{% endif %}
+  </head>
+  <body>
+    <div id="header">
+      <a href="/" id="ragan-io" title="ragan.io">ragan.io</a>
+    </div>
+    <div id="content">
+      {{ content }}
+    </div>
+  </body>
+</html>
