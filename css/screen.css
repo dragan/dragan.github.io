@@ -133,6 +133,19 @@ p {
   color: #444;
 }
 
+#articles {
+  font-size: 20px;
+  line-height: 1.6em;
+  font-family: "Myriad Pro","Georgia",serif;
+}
+
+#articles ul {
+}
+
+#articles ul li {
+  padding-bottom: 10px;
+}
+
 /*- CLEAR FLOATS
 -------------------------------------------------------------------------------*/
 .group:after {
