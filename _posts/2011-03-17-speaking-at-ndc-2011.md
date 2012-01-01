@@ -22,4 +22,4 @@ If Norway is not a reasonable destination for you to attend a conference and if 
 [moncai]: http://moncai.com/
 [thegu]: http://www.scottgu.com/
 [ndc-tickets]: http://ndc2011.no/tickets/
-[email]: mailto:dwragan@gmail.com
+[email]: http://scr.im/daleragan/

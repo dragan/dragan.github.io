@@ -15,4 +15,4 @@ If you'd like to get in touch with any questions or feedback, you can find him [
 [blog]: http://ragan.io/
 [monospace]: http://monospace.us/
 [twitter]: http://twitter.com/dwragan/
-[email]: mailto:dwragan@gmail.com
+[email]: http://scr.im/daleragan/
