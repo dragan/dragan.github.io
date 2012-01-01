@@ -146,6 +146,14 @@ p {
   padding-bottom: 10px;
 }
 
+body > footer {
+  margin-top: 45px;
+  text-align: center;
+  font-size: 14px;
+  color: #BBB;
+  line-height: 26px;
+}
+
 /*- CLEAR FLOATS
 -------------------------------------------------------------------------------*/
 .group:after {
