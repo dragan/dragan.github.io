@@ -64,17 +64,19 @@ p {
 
 #site-title {
   float: left;
-  margin-top: 15px;
+  margin-top: 10px;
 }
 
 #site-title a {
-  font: 17px "Georgia","Times New Roman",serif;
-  text-transform: uppercase;
+  font: 25px "Droid Serif","Myriad Pro","Georgia",sans-serif;
   cursor: auto;
-  font-weight: bold;
   letter-spacing: 1px;
   color: #FFF;
   text-decoration: none;
+}
+
+#site-title a span {
+  color: #F70;
 }
 
 #menu {
