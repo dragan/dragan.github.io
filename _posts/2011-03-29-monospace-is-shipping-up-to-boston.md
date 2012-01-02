@@ -5,7 +5,7 @@ title: Monospace is Shipping Up To Boston
 
 I recently [posted][monospace-refresh] that we were planning [Monospace 2011][monospace] to take place in Austin, TX around October of this year.  As you may have heard by now, that is no longer the case.  As the [Dropkick Murphys][dropkick-murphys] song goes, Monospace is shipping up to Boston.  Hopefully we won't lose a leg!  Another part of the change is the date.  We are moving it from October to July.  We haven't set an exact date yet, but we are shooting for the end of July.
 
-<img src="/images/post-assets/2011-03-29-monospace-is-shipping-up-to-boston/bostonlucagaluzzi.jpg" alt="Boston Luca Galuzzi" />
+<img src="http://ragan.io/images/post-assets/2011-03-29-monospace-is-shipping-up-to-boston/bostonlucagaluzzi.jpg" alt="Boston Luca Galuzzi" />
 
 ## Why
 

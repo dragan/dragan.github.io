@@ -5,7 +5,7 @@ title: Speaking at NDC 2011
 
 One of my goals to help give back to the .NET/Mono community that I am proud to be a part of, is to take up speaking.  I am excited to announce that I can cross that item off my list now, because I have my first confirmed speaking engagement at the [2011 Norwegian Developers Conference][ndc2011] from June 8th - 10th in Oslo, Norway.  I wanted to include an image of a happy monkey to show how ecstatic I am about this opportunity, but the images that showed up in my search results were a little disturbing.
 
-<a href="http://ndc2011.no/" title="NDC 2011"><img src="/images/post-assets/2011-03-17-speaking-at-ndc-2011/ndc2011_logo.png" alt="NDC 2011" /></a>
+<a href="http://ndc2011.no/" title="NDC 2011"><img src="http://ragan.io/images/post-assets/2011-03-17-speaking-at-ndc-2011/ndc2011_logo.png" alt="NDC 2011" /></a>
 
 I’ve been lucky enough to be given a slot on day one [June 8th from 15:00 - 16:00][ndc-agenda] to do a session on [Monca&#237;][moncai] called "Let me introduce my Monca&#237;!".  Here's the abstract:
 

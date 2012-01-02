@@ -3,7 +3,7 @@
   <title>Dale Ragan</title>
   <link href="http://ragan.io/atom.xml" rel="self"/>
   <link href="http://ragan.io/"/>
-  <updated>2012-01-02T00:14:10-05:00</updated>
+  <updated>2012-01-02T00:21:52-05:00</updated>
   <id>http://ragan.io/</id>
   <author>
     <name>Dale Ragan</name>
@@ -17,7 +17,7 @@
     <id>http://ragan.io/log/monospace-is-shipping-up-to-boston</id>
     <content type="html">&lt;p&gt;I recently &lt;a href=&quot;/posts/monospace-refresh/&quot;&gt;posted&lt;/a&gt; that we were planning &lt;a href=&quot;http://monospace.us/&quot;&gt;Monospace 2011&lt;/a&gt; to take place in Austin, TX around October of this year.  As you may have heard by now, that is no longer the case.  As the &lt;a href=&quot;http://www.dropkickmurphys.com/music/albums/the-warriors-code/#boston&quot;&gt;Dropkick Murphys&lt;/a&gt; song goes, Monospace is shipping up to Boston.  Hopefully we won&amp;rsquo;t lose a leg!  Another part of the change is the date.  We are moving it from October to July.  We haven&amp;rsquo;t set an exact date yet, but we are shooting for the end of July.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/post-assets/2011-03-29-monospace-is-shipping-up-to-boston/bostonlucagaluzzi.jpg&quot; alt=&quot;Boston Luca Galuzzi&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ragan.io/images/post-assets/2011-03-29-monospace-is-shipping-up-to-boston/bostonlucagaluzzi.jpg&quot; alt=&quot;Boston Luca Galuzzi&quot; /&gt;&lt;/p&gt;
 
 &lt;h2&gt;Why&lt;/h2&gt;
 
@@ -46,7 +46,7 @@
 
 &lt;p&gt;It&amp;rsquo;s no secret that I am infatuated with the &lt;a href=&quot;http://mono-project.com/&quot;&gt;Mono&lt;/a&gt; project, it&amp;rsquo;s the main ingredient in &lt;a href=&quot;http://moncai.com/&quot;&gt;Monca&amp;#237;&lt;/a&gt;.  Heck, I even named the project Monca&amp;#237; to pay tribute to Mono, therefore it shouldn&amp;rsquo;t come as a surprise that I am going to do everything within my power to evangelize Mono, .NET, and the .NET open-source projects under them to build a kick ass community ecosystem.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/post-assets/2011-03-21-monospace-refresh/monkeycommunity.jpg&quot; alt=&quot;Monkey Community&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ragan.io/images/post-assets/2011-03-21-monospace-refresh/monkeycommunity.jpg&quot; alt=&quot;Monkey Community&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In order to reach that goal, another one of my main goals for this year was to resuscitate the Monospace Conference.  I found out that &lt;a href=&quot;http://www.lostechies.com/blogs/louissalin/&quot;&gt;Louis Salin&lt;/a&gt; was also looking to dust it off and I jumped at the opportunity to partner with him to organize the conference.&lt;/p&gt;
 
@@ -65,7 +65,7 @@
     <id>http://ragan.io/log/speaking-at-ndc-2011</id>
     <content type="html">&lt;p&gt;One of my goals to help give back to the .NET/Mono community that I am proud to be a part of, is to take up speaking.  I am excited to announce that I can cross that item off my list now, because I have my first confirmed speaking engagement at the &lt;a href=&quot;http://ndc2011.no/&quot;&gt;2011 Norwegian Developers Conference&lt;/a&gt; from June 8th &amp;ndash; 10th in Oslo, Norway.  I wanted to include an image of a happy monkey to show how ecstatic I am about this opportunity, but the images that showed up in my search results were a little disturbing.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://ndc2011.no/&quot; title=&quot;NDC 2011&quot;&gt;&lt;img src=&quot;/images/post-assets/2011-03-17-speaking-at-ndc-2011/ndc2011_logo.png&quot; alt=&quot;NDC 2011&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ndc2011.no/&quot; title=&quot;NDC 2011&quot;&gt;&lt;img src=&quot;http://ragan.io/images/post-assets/2011-03-17-speaking-at-ndc-2011/ndc2011_logo.png&quot; alt=&quot;NDC 2011&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I’ve been lucky enough to be given a slot on day one &lt;a href=&quot;http://ndc2011.no/agenda.aspx?cat=1071&quot;&gt;June 8th from 15:00 &amp;ndash; 16:00&lt;/a&gt; to do a session on &lt;a href=&quot;http://moncai.com/&quot;&gt;Monca&amp;#237;&lt;/a&gt; called &amp;ldquo;Let me introduce my Monca&amp;#237;!&amp;rdquo;.  Here&amp;rsquo;s the abstract:&lt;/p&gt;
 

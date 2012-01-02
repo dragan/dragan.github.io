@@ -7,7 +7,7 @@ title: Monospace Refresh!
 
 It's no secret that I am infatuated with the [Mono][mono] project, it's the main ingredient in [Monca&#237;][moncai].  Heck, I even named the project Monca&#237; to pay tribute to Mono, therefore it shouldn't come as a surprise that I am going to do everything within my power to evangelize Mono, .NET, and the .NET open-source projects under them to build a kick ass community ecosystem.
 
-<img src="/images/post-assets/2011-03-21-monospace-refresh/monkeycommunity.jpg" alt="Monkey Community" />
+<img src="http://ragan.io/images/post-assets/2011-03-21-monospace-refresh/monkeycommunity.jpg" alt="Monkey Community" />
 
 In order to reach that goal, another one of my main goals for this year was to resuscitate the Monospace Conference.  I found out that [Louis Salin][louis] was also looking to dust it off and I jumped at the opportunity to partner with him to organize the conference.
 
