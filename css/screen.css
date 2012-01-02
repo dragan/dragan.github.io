@@ -49,6 +49,11 @@ p {
   display: block;
 }
 
+aside {
+  margin: 24px 0;
+  padding: 10px;
+}
+
 #header {
   position: fixed;
   width: 100%;
@@ -139,11 +144,14 @@ p {
   font-family: "Myriad Pro","Georgia",serif;
 }
 
-#articles ul {
-}
-
 #articles ul li {
   padding-bottom: 10px;
+}
+
+.comments {
+  background-color: #F0F0F0;
+  padding: 21px;
+  margin-bottom: 50px;
 }
 
 body > footer {
