@@ -3,12 +3,23 @@
   <title>Dale Ragan</title>
   <link href="http://ragan.io/atom.xml" rel="self"/>
   <link href="http://ragan.io/"/>
-  <updated>2012-01-02T01:04:01-05:00</updated>
+  <updated>2012-01-02T01:25:26-05:00</updated>
   <id>http://ragan.io/</id>
   <author>
     <name>Dale Ragan</name>
     <email>dwragan@gmail.com</email>
   </author>
+  
+  <entry>
+    <title>Getting Personal</title>
+    <link href="http://ragan.io/log/getting-personal"/>
+    <updated>2011-12-26T00:00:00-05:00</updated>
+    <id>http://ragan.io/log/getting-personal</id>
+    <content type="html">&lt;p&gt;I&amp;rsquo;ve found that I love writing and sharing my thoughts with others and I wanted to find a way to allow me to do that more often.  In the past, I&amp;rsquo;ve been blogging on and off on my &lt;a href=&quot;http://sinesignal.com/blog/&quot;&gt;business blog&lt;/a&gt; this year, but I&amp;rsquo;ve been wanting to write about things that didn&amp;rsquo;t necessarily relate to my business and I didn&amp;rsquo;t have a place to share those thoughts.&lt;/p&gt;
+
+&lt;p&gt;My biggest blocking point in the past, was finding the right medium that allowed me to write like a hacker.  Using &lt;a href=&quot;http://moncai.com/&quot;&gt;Moncaí&lt;/a&gt;, I am rectifying that problem.  I&amp;rsquo;ve imported the posts from my business blog that are better suited here.  I&amp;rsquo;m going to document how my site works also, but for now all I have to say is &amp;mdash; &lt;em&gt;To be continued&lt;/em&gt; &amp;hellip;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Monospace is Shipping Up To Boston</title>

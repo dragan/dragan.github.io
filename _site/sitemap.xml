@@ -10,6 +10,11 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>http://ragan.io/log/getting-personal</loc>
+    <lastmod>2011-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>http://ragan.io/log/monospace-is-shipping-up-to-boston</loc>
     <lastmod>2011-03-29</lastmod>
     <changefreq>monthly</changefreq>
