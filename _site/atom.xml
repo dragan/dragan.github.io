@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dale Ragan</title>
+  <link href="http://ragan.io/atom.xml" rel="self"/>
+  <link href="http://ragan.io/"/>
+  <updated>2012-01-02T00:08:41-05:00</updated>
+  <id>http://ragan.io/</id>
+  <author>
+    <name>Dale Ragan</name>
+    <email>dwragan@gmail.com</email>
+  </author>
+  
+  <entry>
+    <title>Monospace is Shipping Up To Boston</title>
+    <link href="http://ragan.io/log/monospace-is-shipping-up-to-boston"/>
+    <updated>2011-03-29T00:00:00-04:00</updated>
+    <id>http://ragan.io/log/monospace-is-shipping-up-to-boston</id>
+    <content type="html">&lt;p&gt;I recently &lt;a href=&quot;/posts/monospace-refresh/&quot;&gt;posted&lt;/a&gt; that we were planning &lt;a href=&quot;http://monospace.us/&quot;&gt;Monospace 2011&lt;/a&gt; to take place in Austin, TX around October of this year.  As you may have heard by now, that is no longer the case.  As the &lt;a href=&quot;http://www.dropkickmurphys.com/music/albums/the-warriors-code/#boston&quot;&gt;Dropkick Murphys&lt;/a&gt; song goes, Monospace is shipping up to Boston.  Hopefully we won&amp;rsquo;t lose a leg!  Another part of the change is the date.  We are moving it from October to July.  We haven&amp;rsquo;t set an exact date yet, but we are shooting for the end of July.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/post-assets/2011-03-29-monospace-is-shipping-up-to-boston/bostonlucagaluzzi.jpg&quot; alt=&quot;Boston Luca Galuzzi&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Why&lt;/h2&gt;
+
+&lt;p&gt;You may be asking, why the change?  What&amp;rsquo;s wrong with Austin?  The change has nothing to do with Austin or Boston.  They&amp;rsquo;re both great cities and have wonderful amenities to host a community like ours.  The change is all about seizing an opportunity to bring you the best conference experience possible on Mono and .NET open-source!  How are we going to do that?  By combining two events, that&amp;rsquo;s how!  The Mono team heard about our plans for Monospace and contacted us about some plans that they had also.  Before I get into the plans, I have to give the Mono team props for doing this.  They could of just went and did their own thing and more than likely causing the Monospace conference to suffer.  Instead, because they care about the community.  They contacted us about coordinating our efforts to bring the best experience possible to you.&lt;/p&gt;
+
+&lt;p&gt;What plans does the Mono team have?  They&amp;rsquo;re planning to hold a Mono Summit in July by bringing their whole team to Boston from all over the world and invite major contributors to participate!  I will leave the rest for &lt;a href=&quot;http://tirania.org/blog/&quot;&gt;Miguel&lt;/a&gt; to explain, because I don&amp;rsquo;t want to spoil too much.  I however want to explain what this means for Monospace by coordinating with them.  Simply put, it allows the whole Mono team to attend, besides just a few that would be allowed to come to Austin!  That&amp;rsquo;s right, the whole Mono team!  That&amp;rsquo;s 36 Mono developer&amp;rsquo;s at our disposal to talk about their area of responsibility.  Who better to hear it from than the person who knows the ins and outs of that particular feature or area?&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s time for open-source in .NET to shine and take center stage.  As &lt;a href=&quot;http://lostechies.com/louissalin/author/louissalin/&quot;&gt;Louis&lt;/a&gt; mentioned in his &lt;a href=&quot;http://lostechies.com/louissalin/2011/03/26/monospace-2011-update/&quot;&gt;post&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;It won’t be Mono versus .Net or Microsoft versus Linux. Instead, it will be a community of cooperation. Projects will be discussed, to-do lists will be written down and things will get done. It is only by sharing our work that we’ll be able to create an ecosystem that will have a chance to compete in this world.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;We sincerely hope you can come and join us for a preview of the future of Mono and .NET open-source.&lt;/p&gt;
+
+&lt;h2&gt;Call For Speakers&lt;/h2&gt;
+
+&lt;p&gt;One last thing, due to the recent changes, we have officially opened the call for speakers!  If you&amp;rsquo;re a hacker, Monoista, trainer, web developer, Mono system administrator, and/or entrepreneur, &lt;a href=&quot;http://monospace.us/callforspeakers.html&quot;&gt;submit a proposal&lt;/a&gt; to speak at Monospace 2011. Help make the next Monospace the best ever!  The deadline for proposals will be May 15, 2011 by 23:59 EST, but it&amp;rsquo;s not a hard deadline.  We want to make sure we leave room to cover the most current Mono and .NET open-source topics.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Monospace Refresh!</title>
+    <link href="http://ragan.io/log/monospace-refresh"/>
+    <updated>2011-03-21T00:00:00-04:00</updated>
+    <id>http://ragan.io/log/monospace-refresh</id>
+    <content type="html">&lt;h3&gt;Building a Community&lt;/h3&gt;
+
+&lt;p&gt;It&amp;rsquo;s no secret that I am infatuated with the &lt;a href=&quot;http://mono-project.com/&quot;&gt;Mono&lt;/a&gt; project, it&amp;rsquo;s the main ingredient in &lt;a href=&quot;http://moncai.com/&quot;&gt;Monca&amp;#237;&lt;/a&gt;.  Heck, I even named the project Monca&amp;#237; to pay tribute to Mono, therefore it shouldn&amp;rsquo;t come as a surprise that I am going to do everything within my power to evangelize Mono, .NET, and the .NET open-source projects under them to build a kick ass community ecosystem.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/post-assets/2011-03-21-monospace-refresh/monkeycommunity.jpg&quot; alt=&quot;Monkey Community&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In order to reach that goal, another one of my main goals for this year was to resuscitate the Monospace Conference.  I found out that &lt;a href=&quot;http://www.lostechies.com/blogs/louissalin/&quot;&gt;Louis Salin&lt;/a&gt; was also looking to dust it off and I jumped at the opportunity to partner with him to organize the conference.&lt;/p&gt;
+
+&lt;h3&gt;Monospace 2011&lt;/h3&gt;
+
+&lt;p&gt;Without further ado, we are happy to announce that we are officially planning &lt;a href=&quot;http://monospace.us/&quot;&gt;Monospace 2011&lt;/a&gt; to take place in Austin, Texas in October 2011!  We got the wheels turning over the weekend by creating a sign-up page for you to show your interest while we plan the conference.  We will release more information over the coming months.  However, we can tell you now that it will last three days, with two days of sessions and one day reserved for an open space.  We are also estimating ticket prices to be around $250 and we plan for great speakers to be there from all over the .NET open-source community to give sessions over cross-platform, game, and web development using Mono and .NET.&lt;/p&gt;
+
+&lt;p&gt;Whether you&amp;rsquo;re a new comer, a long time user, or just like to see LOLCATS in the presentations we are aiming to provide a conference to suit everybody.  There is no doubt in our minds that Monospace 2011 will be a lot of fun, so what are you waiting for, stop reading this and &lt;a href=&quot;http://monospace.us/&quot;&gt;go enter your email address&lt;/a&gt; and we will keep you updated on the progress!&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Speaking at NDC 2011</title>
+    <link href="http://ragan.io/log/speaking-at-ndc-2011"/>
+    <updated>2011-03-17T00:00:00-04:00</updated>
+    <id>http://ragan.io/log/speaking-at-ndc-2011</id>
+    <content type="html">&lt;p&gt;One of my goals to help give back to the .NET/Mono community that I am proud to be a part of, is to take up speaking.  I am excited to announce that I can cross that item off my list now, because I have my first confirmed speaking engagement at the &lt;a href=&quot;http://ndc2011.no/&quot;&gt;2011 Norwegian Developers Conference&lt;/a&gt; from June 8th &amp;ndash; 10th in Oslo, Norway.  I wanted to include an image of a happy monkey to show how ecstatic I am about this opportunity, but the images that showed up in my search results were a little disturbing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ndc2011.no/&quot; title=&quot;NDC 2011&quot;&gt;&lt;img src=&quot;/images/post-assets/2011-03-17-speaking-at-ndc-2011/ndc2011_logo.png&quot; alt=&quot;NDC 2011&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve been lucky enough to be given a slot on day one &lt;a href=&quot;http://ndc2011.no/agenda.aspx?cat=1071&quot;&gt;June 8th from 15:00 &amp;ndash; 16:00&lt;/a&gt; to do a session on &lt;a href=&quot;http://moncai.com/&quot;&gt;Monca&amp;#237;&lt;/a&gt; called &amp;ldquo;Let me introduce my Monca&amp;#237;!&amp;rdquo;.  Here&amp;rsquo;s the abstract:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Cloud services are changing the way we approach developing application&amp;rsquo;s.  Learn how Platform–as–a–Service (PaaS) takes it a step further and
+helps you forget about server&amp;rsquo;s and focus on your problems.  We&amp;rsquo;ll start by discussing the philosophies behind PaaS and then dive into using
+Monca&amp;#237; to deploy, build, and scale your web, mobile, or social application&amp;rsquo;s written in .NET.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;With the keynote to be given by &lt;a href=&quot;http://www.scottgu.com/&quot;&gt;Scott Guthrie&lt;/a&gt; (AKA The Gu) and an agenda that contains a great selection of speakers, this years NDC is gearing up to be the best one yet.  So what are you waiting for, &lt;a href=&quot;http://ndc2011.no/tickets/&quot;&gt;get your ticket now&lt;/a&gt;.  I&amp;rsquo;m looking forward in meeting everybody that attends and throwing some beers back with you.&lt;/p&gt;
+
+&lt;p&gt;If Norway is not a reasonable destination for you to attend a conference and if you’re interested in hearing me speak, or know of any opportunities that you think I might be interested in, please drop me an &lt;a href=&quot;http://scr.im/daleragan/&quot;&gt;email&lt;/a&gt;.  I&amp;rsquo;d be happy to speak about Monca&amp;#237;, PaaS, .NET, Mono, MonoDevelop, and CouchDB.&lt;/p&gt;
+</content>
+  </entry>
+  
+</feed>
