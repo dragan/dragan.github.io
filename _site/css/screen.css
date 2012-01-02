@@ -1,0 +1,173 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
+  font-size: 100%;
+}
+
+a {
+  color: #227CE8;
+}
+
+a:hover {
+  color: #F70;
+  text-decoration: none;
+}
+
+ul {
+  display: block;
+}
+
+li {
+  list-style: none;
+}
+
+h1, h2, h3 {
+  font-family: "PT Serif","Georgia","Helvetica Neue",Arial,serif;
+  font-weight: normal;
+  border-bottom: 1px solid #DDD;
+  margin-bottom: 0.5em;
+  padding-bottom: 0.1em;
+}
+
+h1 {
+  font-size: 2.2em;
+  line-height: 1.2em;
+}
+
+h2 {
+  font-size: 2.0em;
+  line-height: 1.0em;
+}
+
+h3 {
+  font-size: 1.8em;
+  line-height: 0.8em;
+}
+
+p {
+  display: block;
+}
+
+aside {
+  margin: 24px 0;
+  padding: 10px;
+}
+
+#header {
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+  height: 50px;
+  background-color: RGBA(0, 0, 0, 0.85);
+}
+
+.container {
+  width: 42em;
+  margin: 0 auto;
+}
+
+.date {
+  text-align: right;
+  font-size: 16px;
+  color: #BBB;
+}
+
+#site-title {
+  float: left;
+  margin-top: 10px;
+}
+
+#site-title a {
+  font: 25px "Droid Serif","Myriad Pro","Georgia",sans-serif;
+  cursor: auto;
+  letter-spacing: 1px;
+  color: #FFF;
+  text-decoration: none;
+}
+
+#site-title a span {
+  color: #F70;
+}
+
+#menu {
+  float: right;
+  margin-top: 17px;
+  font: 12px "Lucida Grande",Verdana,Arial,sans-serif;
+}
+
+#menu li {
+  position: relative;
+  padding-left: 14px;
+  display: inline;
+  text-transform: uppercase;
+}
+
+#menu li a {
+  color: #777;
+  text-decoration: none;
+  padding-bottom: 2px;
+}
+
+#menu li a:hover {
+  color: #F70;
+  border-bottom: 2px solid #555;
+}
+
+#content {
+  display: block;
+  padding-top: 100px;
+}
+
+#content p {
+  font-size: 1.2em;
+  line-height: 1.4em;
+  margin-bottom: 1.3em;
+}
+
+.post header {
+  line-height: 1.3em;
+  margin-bottom: 15px;
+}
+
+.post blockquote {
+  font-style: italic;
+  font-size: 14px;
+  padding: .25em 1em;
+  margin: 1em 1em 0 1em;
+  color: #444;
+}
+
+#articles {
+  font-size: 20px;
+  line-height: 1.6em;
+  font-family: "Myriad Pro","Georgia",serif;
+}
+
+#articles ul li {
+  padding-bottom: 10px;
+}
+
+.comments {
+  background-color: #F0F0F0;
+  padding: 21px;
+  margin-bottom: 50px;
+}
+
+body > footer {
+  margin-top: 45px;
+  text-align: center;
+  font-size: 14px;
+  color: #BBB;
+  line-height: 26px;
+}
+
+/*- CLEAR FLOATS
+-------------------------------------------------------------------------------*/
+.group:after {
+  content: ".";
+  display: block;
+  height: 0px;
+  clear: both;
+  visibility: hidden;
+}
