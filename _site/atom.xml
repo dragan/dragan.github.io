@@ -3,12 +3,45 @@
   <title>Dale Ragan</title>
   <link href="http://ragan.io/atom.xml" rel="self"/>
   <link href="http://ragan.io/"/>
-  <updated>2012-01-02T01:25:26-05:00</updated>
+  <updated>2012-01-02T01:32:53-05:00</updated>
   <id>http://ragan.io/</id>
   <author>
     <name>Dale Ragan</name>
     <email>dwragan@gmail.com</email>
   </author>
+  
+  <entry>
+    <title>Mono in 2011 Continued</title>
+    <link href="http://ragan.io/log/mono-in-2011-continued"/>
+    <updated>2011-12-31T00:00:00-05:00</updated>
+    <id>http://ragan.io/log/mono-in-2011-continued</id>
+    <content type="html">&lt;p&gt;What a year 2011 has been for &lt;a href=&quot;http://mono-project.com/&quot;&gt;Mono&lt;/a&gt;, &lt;a href=&quot;http://tirania.org/&quot;&gt;Miguel de Icaza&lt;/a&gt; did an incredible job outlining a majority of the milestones in his &lt;a href=&quot;http://tirania.org/blog/archive/2011/Dec-21.html&quot;&gt;year end post&lt;/a&gt; and it&amp;rsquo;s easy to see that Mono is picking up momentum in a lot of areas.  It&amp;rsquo;s awesome to see everything that has transpired this year, barring the set backs that Miguel and his team encountered.  I am truly proud to be part of the community and a contributor.&lt;/p&gt;
+
+&lt;p&gt;However, it was such a great year that Miguel missed a few milestones.  It&amp;rsquo;s partly my fault for not reminding him in his &amp;ldquo;&lt;a href=&quot;http://tirania.org/blog/archive/2011/Dec-15.html&quot;&gt;Tell me how you used Mono this year&lt;/a&gt;&amp;rdquo; post, but on the other hand it gave me the motivation to finally start my own &lt;a href=&quot;http://ragan.io/log/getting-personal/&quot;&gt;personal blog&lt;/a&gt;.  Below, is a list of a few more high profile projects in my opinion that cultivated this past year.&lt;/p&gt;
+
+&lt;h2&gt;Monospace&lt;/h2&gt;
+
+&lt;p&gt;With the help of &lt;a href=&quot;http://lostechies.com/louissalin/&quot;&gt;Louis Salin&lt;/a&gt;, we dusted off &lt;a href=&quot;http://monospace.us/&quot;&gt;Monospace&lt;/a&gt; and brought it back this year.  Neither of us had ever organized a conference before, but we took the challenge head on.  You can read &lt;a href=&quot;http://lostechies.com/louissalin/2011/08/04/monospace-diary-of-an-organizer/&quot;&gt;Louis&amp;rsquo;s post&lt;/a&gt; on how we did it.  The conference was a success and we&amp;rsquo;ll be doing it again next year with a little bit of a twist, more on that below.&lt;/p&gt;
+
+&lt;p&gt;If you couldn&amp;rsquo;t make it or missed a talk, our friends over at &lt;a href=&quot;http://infoq.com/&quot;&gt;InfoQ&lt;/a&gt; have you covered.  They recorded a majority of the &lt;a href=&quot;http://infoq.com/monospace/&quot;&gt;sessions&lt;/a&gt; and have been releasing a new one every two weeks.&lt;/p&gt;
+
+&lt;h2&gt;Monkey Square&lt;/h2&gt;
+
+&lt;p&gt;Now for the twist of what is in store for Monospace 2012.  We took the profits from Monospace to start a new 501c3 tax-exempt organization called Monkey Square.  Our main goal with Monkey Square is to help foster the open source community around .NET.  It is now the parent organization to Monospace and will be a visible presence and point of contact for corporate sponsors interested in supporting Monospace and other OSS .NET activities.&lt;/p&gt;
+
+&lt;p&gt;We are just getting started with this venture and you can keep up with the progress by following &lt;a href=&quot;http://twitter.com/monkeysquareorg/&quot;&gt;@MonkeySquareOrg&lt;/a&gt; over on Twitter.  You can view the latest news and get a sneak peek of our website.&lt;/p&gt;
+
+&lt;h2&gt;Moncaí&lt;/h2&gt;
+
+&lt;p&gt;Last, but not least, the largest event for me this past year has been launching my new company and project called &lt;a href=&quot;http://moncai.com/&quot;&gt;Moncaí&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Moncaí&amp;rsquo;s goal is to provide the best Platform-as-a-Service for running your .NET web applications.  It is built entirely on an open stack and we use Mono heavily.&lt;/p&gt;
+
+&lt;p&gt;I launched Moncaí under an existing company of mine and I&amp;rsquo;ve since separated it out into it&amp;rsquo;s own entity called Moncaí, LLC.  I&amp;rsquo;ve taken on a partner and we&amp;rsquo;ve been accepted into the &lt;a href=&quot;http://techcolumbus.org/&quot;&gt;TechColumbus incubator program&lt;/a&gt;.  I&amp;rsquo;ve given presentations on Moncaí at &lt;a href=&quot;http://ndc2011.no/&quot;&gt;NDC&lt;/a&gt; and &lt;a href=&quot;http://monospace.us/&quot;&gt;Monospace&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Launching Moncaí has been a huge effort and we&amp;rsquo;ve done a lot of work to get where we are today.  It wouldn&amp;rsquo;t of been possible without the great support we&amp;rsquo;ve received from those who have signed up in our private beta and friends in the industry.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Getting Personal</title>
