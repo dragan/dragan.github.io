@@ -3,12 +3,33 @@
   <title>Dale Ragan</title>
   <link href="http://ragan.io/atom.xml" rel="self"/>
   <link href="http://ragan.io/"/>
-  <updated>2012-01-05T19:21:46-05:00</updated>
+  <updated>2012-04-16T15:26:29-04:00</updated>
   <id>http://ragan.io/</id>
   <author>
     <name>Dale Ragan</name>
     <email>dwragan@gmail.com</email>
   </author>
+  
+  <entry>
+    <title>Introducing mope and mono-build</title>
+    <link href="http://ragan.io/log/introducing-mope-and-mono-build"/>
+    <updated>2012-04-16T00:00:00-04:00</updated>
+    <id>http://ragan.io/log/introducing-mope-and-mono-build</id>
+    <content type="html">&lt;p&gt;I&amp;rsquo;m happy to announce the release of &lt;a href=&quot;http://github.com/dragan/mope&quot;&gt;&lt;strong&gt;mope&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&quot;http://github.com/dragan/mono-build&quot;&gt;&lt;strong&gt;mono-build&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ragan.io/images/post-assets/2012-04-16-introducing-mope-and-mono-build/mope-screenshot.png&quot; alt=&quot;mope screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I compile, install, and switch different versions of Mono all the time.  It also happens to be one of the most frustrating experiences I have to face, as a Mono developer.  Sure, I&amp;rsquo;ve created small pieces of snippets here and there to help with the process, but they were always just strewn about.&lt;/p&gt;
+
+&lt;p&gt;Things shouldn&amp;rsquo;t be this way.  Not in Mono.&lt;/p&gt;
+
+&lt;p&gt;I finally got fed up with it this past weekend.  I wanted something where I can centralize Mono Version Management, therefore &lt;a href=&quot;http://github.com/dragan/mope&quot;&gt;mope&lt;/a&gt; and &lt;a href=&quot;http://github.com/dragan/mono-build&quot;&gt;mono-build&lt;/a&gt; were born.  They&amp;rsquo;re not perfect, but it&amp;rsquo;s a start.  Take a gander at the project README&amp;rsquo;s for full documentation.&lt;/p&gt;
+
+&lt;p&gt;Last, but not least, a big thanks to &lt;a href=&quot;http://sstephenson.us/&quot;&gt;Sam Stephenson&lt;/a&gt; for &lt;a href=&quot;http://github.com/sstephenson/rbenv&quot;&gt;rbenv&lt;/a&gt; and &lt;a href=&quot;http://github.com/sstephenson/ruby-build&quot;&gt;ruby-build&lt;/a&gt;.  If it wasn&amp;rsquo;t for inspiration from his projects, I probably couldn&amp;rsquo;t of created these projects as fast.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Mono in 2011 Continued</title>
