@@ -3,12 +3,35 @@
   <title>Dale Ragan</title>
   <link href="http://ragan.io/atom.xml" rel="self"/>
   <link href="http://ragan.io/"/>
-  <updated>2012-04-17T22:02:23-04:00</updated>
+  <updated>2012-07-09T15:24:41-04:00</updated>
   <id>http://ragan.io/</id>
   <author>
     <name>Dale Ragan</name>
     <email>dwragan@gmail.com</email>
   </author>
+  
+  <entry>
+    <title>Monospace 2012</title>
+    <link href="http://ragan.io/log/monospace-2012"/>
+    <updated>2012-07-09T00:00:00-04:00</updated>
+    <id>http://ragan.io/log/monospace-2012</id>
+    <content type="html">&lt;p&gt;After almost a year since the last &lt;a href=&quot;http://monospace.us/2011&quot;&gt;Monospace&lt;/a&gt;, I&amp;rsquo;m happy to announce that Monospace is back for 2012 and open for &lt;a href=&quot;http://monospace.us&quot;&gt;registration&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;The coference will be held from October 17-19, 2012 at the &lt;a href=&quot;http://microsoftcambridge.com/Default.aspx&quot;&gt;Microsoft NERD Center&lt;/a&gt; in &lt;a href=&quot;https://maps.google.com/maps?f=q&amp;amp;saddr=1+Memorial+Drive+Cambridge+MA+United+States+02142&quot;&gt;Cambridge, MA&lt;/a&gt;. We are planning three days of learning and fun, expect to attend drinkups, an attendee party, and learn from some of the best &lt;a href=&quot;http://monospace.us/#speakers&quot;&gt;technical speakers&lt;/a&gt; on a very diverse range of topics in developing cross-platform .NET applications.&lt;/p&gt;
+
+&lt;p&gt;Whether you&amp;rsquo;re a new comer, a long time user, or just like to see LOLCATS in presentations. There is no doubt in our minds that Monospace 2012 will be even better than last year&amp;rsquo;s, so what are you waiting for, stop reading this and &lt;a href=&quot;http://monospace.us&quot;&gt;go register&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h3&gt;We are need speakers&lt;/h3&gt;
+
+&lt;p&gt;If you&amp;rsquo;re interested in speaking in front of a diverse technical crowd, consider &lt;a href=&quot;http://monospace.us/speakers&quot;&gt;submitting a proposal&lt;/a&gt; and be prepared to:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cdn.memegenerator.net/instances/400x/23203099.jpg&quot; alt=&quot;LOLCAT ALL THE SLIDES&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;By the way, this was a typo on the site during review, but I thought it was funny and reminded me of a meme and went ahead and launched with it. I&amp;rsquo;ve since corrected the typo, but thought I would explain for those who didn&amp;rsquo;t get it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cdn.memegenerator.net/instances/400x/23071377.jpg&quot; alt=&quot;WE ARE NEED SPEAKERS&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>CodeBetter CI Mono Build Agent</title>
