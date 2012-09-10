@@ -3,12 +3,35 @@
   <title>Dale Ragan</title>
   <link href="http://ragan.io/atom.xml" rel="self"/>
   <link href="http://ragan.io/"/>
-  <updated>2012-07-09T15:24:41-04:00</updated>
+  <updated>2012-09-10T11:12:19-04:00</updated>
   <id>http://ragan.io/</id>
   <author>
     <name>Dale Ragan</name>
     <email>dwragan@gmail.com</email>
   </author>
+  
+  <entry>
+    <title>The Conference Formerly Known As Monospace</title>
+    <link href="http://ragan.io/log/the-conference-formerly-known-as-monospace"/>
+    <updated>2012-09-10T00:00:00-04:00</updated>
+    <id>http://ragan.io/log/the-conference-formerly-known-as-monospace</id>
+    <content type="html">&lt;h3&gt;MonkeySpace&lt;/h3&gt;
+
+&lt;p&gt;Last week, we &lt;a href=&quot;https://twitter.com/monospace_conf/status/243998779290832897&quot;&gt;announced&lt;/a&gt; that we changed the name of the &lt;a href=&quot;http://monospace.us&quot;&gt;Monospace&lt;/a&gt; conference to &lt;a href=&quot;http://monkeyspace.org&quot;&gt;MonkeySpace&lt;/a&gt;. Some of you may be thinking, why change the name now? Well, one of our goals with &lt;a href=&quot;http://monkeysquare.org&quot;&gt;Monkey Square&lt;/a&gt; is to educate and evangelize cross platform and open source development in &lt;a href=&quot;http://www.microsoft.com/net&quot;&gt;.NET&lt;/a&gt;. We have a great tool with &lt;a href=&quot;http://monospace.us&quot;&gt;Monospace&lt;/a&gt; to help us with our mission, but we thought the name gave the conference a certain perception of only being about &lt;a href=&quot;http://www.mono-project.com&quot;&gt;Mono&lt;/a&gt;. In order to change that perception, we decided to rename the conference to better reflect it&amp;rsquo;s mission. For the latest news about &lt;a href=&quot;http://monkeyspace.org&quot;&gt;MonkeySpace&lt;/a&gt; and &lt;a href=&quot;http://monkeysquare.org&quot;&gt;Monkey Square&lt;/a&gt;, make sure you&amp;rsquo;re following &lt;a href=&quot;https://twitter.com/monkeyspaceconf&quot;&gt;@MonkeySpaceConf&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/monkeysquareorg&quot;&gt;@MonkeySquareOrg&lt;/a&gt; on twitter. We&amp;rsquo;ll have other channels soon as well.&lt;/p&gt;
+
+&lt;h3&gt;Schedule&lt;/h3&gt;
+
+&lt;p&gt;We also announced the rest of the &lt;a href=&quot;http://monkeyspace.org/#speakers&quot;&gt;speakers&lt;/a&gt; and the &lt;a href=&quot;http://monkeyspace.org/#schedule&quot;&gt;schedule&lt;/a&gt;. The first two days are jam packed with sessions given by a great line up of speakers, old and new, speaking on topics from mobile development to developing sensor frameworks. The third day is an open space, where we turn the tables on you and allow you to come up with an agenda. We&amp;rsquo;ll also have a hackfest during this day where you can help and learn on how to contribute to open source software. Oh, we have an attendee party thrown in there as well, more on that soon!&lt;/p&gt;
+
+&lt;h3&gt;.NET Rocks Road Trip&lt;/h3&gt;
+
+&lt;p&gt;If that wasn&amp;rsquo;t enough, we&amp;rsquo;re allowing the &lt;a href=&quot;http://www.dotnetrocks.com&quot;&gt;.NET Rocks&lt;/a&gt; crew to crash the party during their &lt;a href=&quot;http://dotnetrocks.com/roadtrip.aspx&quot;&gt;road trip&lt;/a&gt;. After the first day of the conference, come watch &lt;a href=&quot;https://twitter.com/carlfranklin&quot;&gt;Carl&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/richcampbell&quot;&gt;Richard&lt;/a&gt; record a show with &lt;a href=&quot;https://twitter.com/dsyme&quot;&gt;Don Syme&lt;/a&gt;. I&amp;rsquo;m sure they&amp;rsquo;ll have plenty of swag to pass out!&lt;/p&gt;
+
+&lt;h3&gt;A Call to Arms&lt;/h3&gt;
+
+&lt;p&gt;We&amp;rsquo;re doing our best to change the perception of doing development in .NET, but we can&amp;rsquo;t do it by ourselves. It&amp;rsquo;s your turn to help! We hope with the announcement of the speakers and schedule along with changing the perception of the conference will nudge anybody who was on the fence in attending or sponsoring. Help support the community you love and the software you use. If you have any questions, please don&amp;rsquo;t hesitate to &lt;a href=&quot;mailto:monkeyspace@monkeysquare.org&quot;&gt;ask&lt;/a&gt;. We hope to see you there!&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Monospace 2012</title>
