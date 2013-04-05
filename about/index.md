@@ -6,7 +6,7 @@ title: "About Dale Ragan"
 
 Dale is a Ohio based software developer, passionate about building and improving the web.
 
-Dale is a co-founder of [Moncaí][moncai].  When he's not working on that, he's usually hacking on [open source][github], [blogging][blog], speaking, and [organizing conferences][monospace].
+Dale is a co-founder of [Moncaí][moncai].  When he's not working on that, he's usually hacking on [open source][github], [blogging][blog], speaking, and [evangelizing .NET open source][monkeysquare].
 
 If you'd like to get in touch with any questions or feedback, you can find him [on Twitter][twitter] or send him [an email][email].
 
@@ -19,7 +19,7 @@ and can be verified offline.
 [moncai]: http://moncai.com/
 [github]: http://github.com/dragan/
 [blog]: http://ragan.io/
-[monospace]: http://monospace.us/
+[monkeysquare]: http://monkeysquare.org/
 [twitter]: http://twitter.com/dwragan/
 [email]: mailto:dale@ragan.io
 [public_key]: /public.key
