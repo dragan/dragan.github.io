@@ -25,8 +25,14 @@
       {{ content }}
     </section>
     <footer>
-      <p>Copyright &copy; 2012 Dale Ragan</p>
+      <p>Copyright &copy; <span id="copy-range"></span> Dale Ragan</p>
     </footer>
+    <script type="text/javascript">
+      var startYear = 2012;
+      var currentYear = new Date().getFullYear();
+      var rangeText = currentYear > startYear && startYear + "-" + currentYear;
+      document.getElementById("copy-range").textContent = rangeText;
+    </script>
     {% include analytics.html %}
     {% include twitter.html %}
   </body>
